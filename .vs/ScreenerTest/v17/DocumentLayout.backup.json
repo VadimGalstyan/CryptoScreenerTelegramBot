@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F914CB-AE3A-4D3A-9DA0-FD03A1844C6A}|ScreenerTest\\ScreenerTest.csproj|c:\\users\\vadim\\desktop\\screenertestforgit(without token)\\screenertest\\telegrambot\\host.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F914CB-AE3A-4D3A-9DA0-FD03A1844C6A}|ScreenerTest\\ScreenerTest.csproj|solutionrelative:screenertest\\telegrambot\\host.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F914CB-AE3A-4D3A-9DA0-FD03A1844C6A}|ScreenerTest\\ScreenerTest.csproj|c:\\users\\vadim\\desktop\\screenertestforgit(without token)\\screenertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F914CB-AE3A-4D3A-9DA0-FD03A1844C6A}|ScreenerTest\\ScreenerTest.csproj|solutionrelative:screenertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F914CB-AE3A-4D3A-9DA0-FD03A1844C6A}|ScreenerTest\\ScreenerTest.csproj|c:\\users\\vadim\\desktop\\screenertestforgit(without token)\\screenertest\\exchanges\\binanceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F914CB-AE3A-4D3A-9DA0-FD03A1844C6A}|ScreenerTest\\ScreenerTest.csproj|solutionrelative:screenertest\\exchanges\\binanceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F914CB-AE3A-4D3A-9DA0-FD03A1844C6A}|ScreenerTest\\ScreenerTest.csproj|c:\\users\\vadim\\desktop\\screenertestforgit(without token)\\screenertest\\screenertest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1F914CB-AE3A-4D3A-9DA0-FD03A1844C6A}|ScreenerTest\\ScreenerTest.csproj|solutionrelative:screenertest\\screenertest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F914CB-AE3A-4D3A-9DA0-FD03A1844C6A}|ScreenerTest\\ScreenerTest.csproj|c:\\users\\vadim\\desktop\\screenertestforgit(without token)\\screenertest\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F914CB-AE3A-4D3A-9DA0-FD03A1844C6A}|ScreenerTest\\ScreenerTest.csproj|solutionrelative:screenertest\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F914CB-AE3A-4D3A-9DA0-FD03A1844C6A}|ScreenerTest\\ScreenerTest.csproj|c:\\users\\vadim\\desktop\\screenertestforgit(without token)\\screenertest\\models\\myusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F914CB-AE3A-4D3A-9DA0-FD03A1844C6A}|ScreenerTest\\ScreenerTest.csproj|solutionrelative:screenertest\\models\\myusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F914CB-AE3A-4D3A-9DA0-FD03A1844C6A}|ScreenerTest\\ScreenerTest.csproj|c:\\users\\vadim\\desktop\\screenertestforgit(without token)\\screenertest\\services\\pricetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F914CB-AE3A-4D3A-9DA0-FD03A1844C6A}|ScreenerTest\\ScreenerTest.csproj|solutionrelative:screenertest\\services\\pricetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F914CB-AE3A-4D3A-9DA0-FD03A1844C6A}|ScreenerTest\\ScreenerTest.csproj|c:\\users\\vadim\\desktop\\screenertestforgit(without token)\\screenertest\\models\\pirceupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F914CB-AE3A-4D3A-9DA0-FD03A1844C6A}|ScreenerTest\\ScreenerTest.csproj|solutionrelative:screenertest\\models\\pirceupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F914CB-AE3A-4D3A-9DA0-FD03A1844C6A}|ScreenerTest\\ScreenerTest.csproj|c:\\users\\vadim\\desktop\\screenertestforgit(without token)\\screenertest\\models\\alerts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F914CB-AE3A-4D3A-9DA0-FD03A1844C6A}|ScreenerTest\\ScreenerTest.csproj|solutionrelative:screenertest\\models\\alerts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F914CB-AE3A-4D3A-9DA0-FD03A1844C6A}|ScreenerTest\\ScreenerTest.csproj|c:\\users\\vadim\\desktop\\screenertestforgit(without token)\\screenertest\\exchanges\\bybitclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F914CB-AE3A-4D3A-9DA0-FD03A1844C6A}|ScreenerTest\\ScreenerTest.csproj|solutionrelative:screenertest\\exchanges\\bybitclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F914CB-AE3A-4D3A-9DA0-FD03A1844C6A}|ScreenerTest\\ScreenerTest.csproj|c:\\users\\vadim\\desktop\\screenertestforgit(without token)\\screenertest\\interfaces\\iexchangeclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F914CB-AE3A-4D3A-9DA0-FD03A1844C6A}|ScreenerTest\\ScreenerTest.csproj|solutionrelative:screenertest\\interfaces\\iexchangeclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.307\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.307\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyUsers.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\ScreenerTest\\Models\\MyUsers.cs",
+              "RelativeDocumentMoniker": "ScreenerTest\\Models\\MyUsers.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\ScreenerTest\\Models\\MyUsers.cs",
+              "RelativeToolTip": "ScreenerTest\\Models\\MyUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:27:21.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Host.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\ScreenerTest\\TelegramBot\\Host.cs",
+              "RelativeDocumentMoniker": "ScreenerTest\\TelegramBot\\Host.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\ScreenerTest\\TelegramBot\\Host.cs",
+              "RelativeToolTip": "ScreenerTest\\TelegramBot\\Host.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T11:38:42.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAAIVAAAAAAAAAAAAwBEVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-08T09:30:34.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.307\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.307\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.307\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.307\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAPoAAAAAAAAAAAASwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-03T15:32:39.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.NET.EolTargetFrameworks.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.307\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.307\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.307\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.307\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ViewState": "AgIAABAAAAAAAAAAAAASwB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-12-03T15:32:14.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\ScreenerTest\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "ScreenerTest\\Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\ScreenerTest\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "ScreenerTest\\Services\\DatabaseService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAowF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T15:25:41.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Alerts.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\ScreenerTest\\Models\\Alerts.cs",
+              "RelativeDocumentMoniker": "ScreenerTest\\Models\\Alerts.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\ScreenerTest\\Models\\Alerts.cs",
+              "RelativeToolTip": "ScreenerTest\\Models\\Alerts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T15:24:34.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BinanceClient.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\ScreenerTest\\Exchanges\\BinanceClient.cs",
+              "RelativeDocumentMoniker": "ScreenerTest\\Exchanges\\BinanceClient.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\ScreenerTest\\Exchanges\\BinanceClient.cs",
+              "RelativeToolTip": "ScreenerTest\\Exchanges\\BinanceClient.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwD0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T14:45:43.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BybitClient.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\ScreenerTest\\Exchanges\\BybitClient.cs",
+              "RelativeDocumentMoniker": "ScreenerTest\\Exchanges\\BybitClient.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\ScreenerTest\\Exchanges\\BybitClient.cs",
+              "RelativeToolTip": "ScreenerTest\\Exchanges\\BybitClient.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAswFsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T14:44:41.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PriceTracker.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\ScreenerTest\\Services\\PriceTracker.cs",
+              "RelativeDocumentMoniker": "ScreenerTest\\Services\\PriceTracker.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\ScreenerTest\\Services\\PriceTracker.cs",
+              "RelativeToolTip": "ScreenerTest\\Services\\PriceTracker.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAwwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T14:44:01.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IExchangeClient.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\ScreenerTest\\Interfaces\\IExchangeClient.cs",
+              "RelativeDocumentMoniker": "ScreenerTest\\Interfaces\\IExchangeClient.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\ScreenerTest\\Interfaces\\IExchangeClient.cs",
+              "RelativeToolTip": "ScreenerTest\\Interfaces\\IExchangeClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T14:43:28.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PirceUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\ScreenerTest\\Models\\PirceUpdate.cs",
+              "RelativeDocumentMoniker": "ScreenerTest\\Models\\PirceUpdate.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\ScreenerTest\\Models\\PirceUpdate.cs",
+              "RelativeToolTip": "ScreenerTest\\Models\\PirceUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T14:42:35.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScreenerTest.csproj",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\ScreenerTest\\ScreenerTest.csproj",
+              "RelativeDocumentMoniker": "ScreenerTest\\ScreenerTest.csproj",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\ScreenerTest\\ScreenerTest.csproj",
+              "RelativeToolTip": "ScreenerTest\\ScreenerTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-03T14:41:30.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\ScreenerTest\\Program.cs",
+              "RelativeDocumentMoniker": "ScreenerTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Vadim\\Desktop\\ScreenerTestForGit(without token)\\ScreenerTest\\Program.cs",
+              "RelativeToolTip": "ScreenerTest\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:30:41.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

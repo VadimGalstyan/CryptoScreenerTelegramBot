@@ -1,0 +1,5 @@
+C:\Users\Vadim\Desktop\ScreenerTest\ScreenerTest\ScreenerTest\obj\Debug\net7.0\ScreenerTest.csproj.AssemblyReference.cache
+C:\Users\Vadim\Desktop\ScreenerTest\ScreenerTest\ScreenerTest\obj\Debug\net7.0\ScreenerTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\ScreenerTest\ScreenerTest\ScreenerTest\obj\Debug\net7.0\ScreenerTest.AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\ScreenerTest\ScreenerTest\ScreenerTest\obj\Debug\net7.0\ScreenerTest.AssemblyInfo.cs
+C:\Users\Vadim\Desktop\ScreenerTest\ScreenerTest\ScreenerTest\obj\Debug\net7.0\ScreenerTest.csproj.CoreCompileInputs.cache
