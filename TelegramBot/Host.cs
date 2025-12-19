@@ -18,7 +18,7 @@ namespace ScreenerTest.TelegramBot
         // key = chatId, value = UserSettings
         private Dictionary<long, MyUsers> _userSettings = new Dictionary<long, MyUsers>();
 
-        private static string token { get; set; } = "8525002273:AAGGq1e1j1kRvgU76tEubAAEtiW_fK_gXHE";
+        private static string token { get; set; } = "Your token";
         public static TelegramBotClient? client;
         int step = 0;
 
